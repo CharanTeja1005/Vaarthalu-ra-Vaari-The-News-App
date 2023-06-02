@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CharanTeja1005/Vaarthalu-ra-Vaari-The-News-App.git/static/css/main.abd64e84.css",
+    "main.js": "/CharanTeja1005/Vaarthalu-ra-Vaari-The-News-App.git/static/js/main.cdeb9e92.js",
+    "static/js/787.4c026eef.chunk.js": "/CharanTeja1005/Vaarthalu-ra-Vaari-The-News-App.git/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/CharanTeja1005/Vaarthalu-ra-Vaari-The-News-App.git/static/media/loading.0f530c3b3f8ebfec8381.gif",
+    "index.html": "/CharanTeja1005/Vaarthalu-ra-Vaari-The-News-App.git/index.html",
+    "main.abd64e84.css.map": "/CharanTeja1005/Vaarthalu-ra-Vaari-The-News-App.git/static/css/main.abd64e84.css.map",
+    "main.cdeb9e92.js.map": "/CharanTeja1005/Vaarthalu-ra-Vaari-The-News-App.git/static/js/main.cdeb9e92.js.map",
+    "787.4c026eef.chunk.js.map": "/CharanTeja1005/Vaarthalu-ra-Vaari-The-News-App.git/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.cdeb9e92.js"
+  ]
+}
