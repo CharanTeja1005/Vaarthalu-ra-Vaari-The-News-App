@@ -1,3 +1,10 @@
+**Developed using React JS**
+
+- News Api that fetches latest news has been used. 
+- Infinity Scrolling is enabled.
+- Top Loading Bar is used.
+- React Router is used.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
